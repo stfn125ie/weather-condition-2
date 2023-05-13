@@ -1,87 +1,88 @@
 {
-    "conditions2" : 
-    [{
-        "code": 1153,
-        "day": "Light drizzle",
-        "night": "Light drizzle",
-        "day_icon": 266,
-        "night_icon": ""
-    },
-    {
-        "code": 1171,
-        "day": "Heavy freezing drizzle",
-        "night": "Heavy freezing drizzle",
-        "day_icon": "https://drive.google.com/file/d/1S74xhAZTngCmtNcp7035ZesugbqZOaDK/view?usp=share_link",
-        "night_icon": "https://drive.google.com/file/d/1S74xhAZTngCmtNcp7035ZesugbqZOaDK/view?usp=share_link"
-    },
-    {
-        "code": 1180,
-        "day": "Patchy light rain",
-        "night": "Patchy light rain",
-        "day_icon": "https://drive.google.com/file/d/1gL91acRuYQGOi4oBnsANMuUsEWJR9eDQ/view?usp=share_link",
-        "night_icon": "https://drive.google.com/file/d/1gL91acRuYQGOi4oBnsANMuUsEWJR9eDQ/view?usp=share_link"
-    },
-    {
-        "code": 1183,
-        "day": "Light rain",
-        "night": "Light rain",
-        "day_icon": "https://drive.google.com/file/d/1gL91acRuYQGOi4oBnsANMuUsEWJR9eDQ/view?usp=share_link",
-        "night_icon": "https://drive.google.com/file/d/1gL91acRuYQGOi4oBnsANMuUsEWJR9eDQ/view?usp=share_link"
-    },
-    {
-        "code": 1186,
-        "day": "Moderate rain at times",
-        "night": "Moderate rain at times",
-        "day_icon": "https://drive.google.com/file/d/1Kt-QcWmR2eM_MU5O-A-X-YzvcVRWi22v/view?usp=share_link",
-        "night_icon": "https://drive.google.com/file/d/1hZ4r_pnI0_XkAXOAbGUOfdsBszQ3Wum4/view?usp=share_link"
-    },
-    {
-        "code": 1189,
-        "day": "Moderate rain",
-        "night": "Moderate rain",
-        "day_icon": "https://drive.google.com/file/d/1Kt-QcWmR2eM_MU5O-A-X-YzvcVRWi22v/view?usp=share_link",
-        "night_icon": "https://drive.google.com/file/d/1hZ4r_pnI0_XkAXOAbGUOfdsBszQ3Wum4/view?usp=share_link"
-    },
-    {
-        "code": 1192,
-        "day": "Heavy rain at times",
-        "night": "Heavy rain at times",
-        "day_icon": "https://drive.google.com/file/d/1gL91acRuYQGOi4oBnsANMuUsEWJR9eDQ/view?usp=share_link",
-        "night_icon": "https://drive.google.com/file/d/1gL91acRuYQGOi4oBnsANMuUsEWJR9eDQ/view?usp=share_link"
-    },
-    {
-        "code": 1195,
-        "day": "Heavy rain",
-        "night": "Heavy rain",
-        "day_icon": "https://drive.google.com/file/d/1FaY3ssd7TKDmFTDXJiYptsKI9Zb9aR0L/view?usp=share_link",
-        "night_icon": "https://drive.google.com/file/d/1FaY3ssd7TKDmFTDXJiYptsKI9Zb9aR0L/view?usp=share_link"
-    },
-    {
-        "code": 1240,
-        "day": "Light rain shower",
-        "night": "Light rain shower",
-        "day_icon": 353,
-        "night_icon": ""
-    },
-    {
-        "code": 1243,
-        "day": "Moderate or heavy rain shower",
-        "night": "Moderate or heavy rain shower",
-        "day_icon": 356,
-        "night_icon": ""
-    },
-    {
-        "code": 1273,
-        "day": "Patchy light rain with thunder",
-        "night": "Patchy light rain with thunder",
-        "day_icon": "https://drive.google.com/file/d/1pI_4soP4A_-ORwJlj3hiY_OXmJz_k7hu/view?usp=share_link",
-        "night_icon": "https://drive.google.com/file/d/1pI_4soP4A_-ORwJlj3hiY_OXmJz_k7hu/view?usp=share_link"
-    },
-    {
-        "code": 1276,
-        "day": "Moderate or heavy rain with thunder",
-        "night": "Moderate or heavy rain with thunder",
-        "day_icon": "https://drive.google.com/file/d/1KnylwFOvbx_-pSxo7zJolqXS4WUJUFWO/view?usp=share_link",
-        "night_icon": "https://drive.google.com/file/d/1KnylwFOvbx_-pSxo7zJolqXS4WUJUFWO/view?usp=share_link"
-    }]
+    "conditions2": [
+        {
+            "code": 1153,
+            "day": "Light drizzle",
+            "night": "Light drizzle",
+            "day_icon": 266,
+            "night_icon": ""
+        },
+        {
+            "code": 1171,
+            "day": "Heavy freezing drizzle",
+            "night": "Heavy freezing drizzle",
+            "day_icon": "https://drive.google.com/file/d/1S74xhAZTngCmtNcp7035ZesugbqZOaDK/view?usp=share_link",
+            "night_icon": "https://drive.google.com/file/d/1S74xhAZTngCmtNcp7035ZesugbqZOaDK/view?usp=share_link"
+        },
+        {
+            "code": 1180,
+            "day": "Patchy light rain",
+            "night": "Patchy light rain",
+            "day_icon": "https://drive.google.com/file/d/1gL91acRuYQGOi4oBnsANMuUsEWJR9eDQ/view?usp=share_link",
+            "night_icon": "https://drive.google.com/file/d/1gL91acRuYQGOi4oBnsANMuUsEWJR9eDQ/view?usp=share_link"
+        },
+        {
+            "code": 1183,
+            "day": "Light rain",
+            "night": "Light rain",
+            "day_icon": "https://drive.google.com/file/d/1gL91acRuYQGOi4oBnsANMuUsEWJR9eDQ/view?usp=share_link",
+            "night_icon": "https://drive.google.com/file/d/1gL91acRuYQGOi4oBnsANMuUsEWJR9eDQ/view?usp=share_link"
+        },
+        {
+            "code": 1186,
+            "day": "Moderate rain at times",
+            "night": "Moderate rain at times",
+            "day_icon": "https://drive.google.com/file/d/1Kt-QcWmR2eM_MU5O-A-X-YzvcVRWi22v/view?usp=share_link",
+            "night_icon": "https://drive.google.com/file/d/1hZ4r_pnI0_XkAXOAbGUOfdsBszQ3Wum4/view?usp=share_link"
+        },
+        {
+            "code": 1189,
+            "day": "Moderate rain",
+            "night": "Moderate rain",
+            "day_icon": "https://drive.google.com/file/d/1Kt-QcWmR2eM_MU5O-A-X-YzvcVRWi22v/view?usp=share_link",
+            "night_icon": "https://drive.google.com/file/d/1hZ4r_pnI0_XkAXOAbGUOfdsBszQ3Wum4/view?usp=share_link"
+        },
+        {
+            "code": 1192,
+            "day": "Heavy rain at times",
+            "night": "Heavy rain at times",
+            "day_icon": "https://drive.google.com/file/d/1gL91acRuYQGOi4oBnsANMuUsEWJR9eDQ/view?usp=share_link",
+            "night_icon": "https://drive.google.com/file/d/1gL91acRuYQGOi4oBnsANMuUsEWJR9eDQ/view?usp=share_link"
+        },
+        {
+            "code": 1195,
+            "day": "Heavy rain",
+            "night": "Heavy rain",
+            "day_icon": "https://drive.google.com/file/d/1FaY3ssd7TKDmFTDXJiYptsKI9Zb9aR0L/view?usp=share_link",
+            "night_icon": "https://drive.google.com/file/d/1FaY3ssd7TKDmFTDXJiYptsKI9Zb9aR0L/view?usp=share_link"
+        },
+        {
+            "code": 1240,
+            "day": "Light rain shower",
+            "night": "Light rain shower",
+            "day_icon": 353,
+            "night_icon": ""
+        },
+        {
+            "code": 1243,
+            "day": "Moderate or heavy rain shower",
+            "night": "Moderate or heavy rain shower",
+            "day_icon": 356,
+            "night_icon": ""
+        },
+        {
+            "code": 1273,
+            "day": "Patchy light rain with thunder",
+            "night": "Patchy light rain with thunder",
+            "day_icon": "https://drive.google.com/file/d/1pI_4soP4A_-ORwJlj3hiY_OXmJz_k7hu/view?usp=share_link",
+            "night_icon": "https://drive.google.com/file/d/1pI_4soP4A_-ORwJlj3hiY_OXmJz_k7hu/view?usp=share_link"
+        },
+        {
+            "code": 1276,
+            "day": "Moderate or heavy rain with thunder",
+            "night": "Moderate or heavy rain with thunder",
+            "day_icon": "https://drive.google.com/file/d/1KnylwFOvbx_-pSxo7zJolqXS4WUJUFWO/view?usp=share_link",
+            "night_icon": "https://drive.google.com/file/d/1KnylwFOvbx_-pSxo7zJolqXS4WUJUFWO/view?usp=share_link"
+        }
+    ]
 }

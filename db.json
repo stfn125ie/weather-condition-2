@@ -1,5 +1,6 @@
 [
-    {
+    "conditions: : 
+    [{
         "code": 1153,
         "day": "Light drizzle",
         "night": "Light drizzle",
@@ -82,5 +83,5 @@
         "night": "Moderate or heavy rain with thunder",
         "day_icon": "https://drive.google.com/file/d/1KnylwFOvbx_-pSxo7zJolqXS4WUJUFWO/view?usp=share_link",
         "night_icon": "https://drive.google.com/file/d/1KnylwFOvbx_-pSxo7zJolqXS4WUJUFWO/view?usp=share_link"
-    }
+    }]
 ]

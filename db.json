@@ -1,5 +1,5 @@
-[
-    "conditions" : 
+{
+    "conditions2" : 
     [{
         "code": 1153,
         "day": "Light drizzle",
@@ -84,4 +84,4 @@
         "day_icon": "https://drive.google.com/file/d/1KnylwFOvbx_-pSxo7zJolqXS4WUJUFWO/view?usp=share_link",
         "night_icon": "https://drive.google.com/file/d/1KnylwFOvbx_-pSxo7zJolqXS4WUJUFWO/view?usp=share_link"
     }]
-]
+}
